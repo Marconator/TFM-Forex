@@ -1,7 +1,7 @@
 
 # TFM-Forex
 
-**TFM-Forex** es un pipeline de aprendizaje automático diseñado para analizar y predecir tendencias del mercado de divisas (Forex), con un enfoque particular en el par EUR/USD. Este proyecto integra componentes de preprocesamiento, entrenamiento, validación y despliegue de modelos para ofrecer un flujo de trabajo completo de análisis Forex.
+**TFM-Forex** es un trabajo de fin de master hecho para la Universidad Internacional de Valencia en la maestría de Big Data y Ciencia de datos. Este repositorio contiene un pipeline de aprendizaje automático diseñado para analizar y predecir tendencias del mercado de divisas (Forex), con un enfoque particular en el par EUR/USD. Este proyecto integra componentes de preprocesamiento, entrenamiento, validación y despliegue de modelos para ofrecer un flujo de trabajo completo de análisis Forex.
 
 ## Tabla de Contenidos
 
