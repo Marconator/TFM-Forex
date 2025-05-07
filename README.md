@@ -94,12 +94,15 @@ mlflow server --backend-store-uri sqlite:///./mlflow.db --default-artifact-root 
 py ./mlops_pipeline/train.py
 ```
 
-
 ### Uso
 
 - Ejecuta `Analysis.ipynb` para exploración y preparación de datos.
 - Corre `Evaluation.ipynb` dentro de `mlops_pipeline/` para validar modelos.
 - Despliega el modelo con `serve_model.sh`.
+
+### Alternativas
+
+- De forma alternativa se puede acceder al Google Collab original del proyecto en este enlace https://colab.research.google.com/drive/1FSqN-hwPUiqgl3diei5AySxyx2cn8a9f
 
 ## Licencia
 
